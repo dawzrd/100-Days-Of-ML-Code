@@ -10,6 +10,7 @@ I pledge to study machine learning for a minimum of one hour daily for the next 
 1. Set up Github repo for the challenge blog
 2. Watched https://www.youtube.com/watch?v=cuQMBj1cWPo&t=7s
 3. Began watching videos in [Machine_Learning_Journey](https://github.com/llSourcell/Machine_Learning_Journey)
+
 **Today's Tasks:**
 	
 - [x] Completed One hour of Machine Learning Study
