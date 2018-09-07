@@ -7,7 +7,7 @@ https://github.com/llSourcell/100_Days_of_ML_Code
 I pledge to study machine learning for a minimum of one hour daily for the next 100 days, share my progress on social media, and encourage at least one other member of the challenge takers on their journey.
 
 **Today's Progress:**
-1. Set up Github repo for the challeng blog
+1. Set up Github repo for the challenge blog
 2. Watched https://www.youtube.com/watch?v=cuQMBj1cWPo&t=7s
 3. Began watching videos in [Machine_Learning_Journey](https://github.com/llSourcell/Machine_Learning_Journey)
 **Today's Tasks:**
